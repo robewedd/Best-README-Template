@@ -1,4 +1,6 @@
 <div id="top"></div>
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/754cc206-bf8a-4b12-bc34-d293fcca8278.svg?orgId=251133511671)](https://app.soluble.cloud/repos/details/github.com/robewedd/best-readme-template?orgId=251133511671)  
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
